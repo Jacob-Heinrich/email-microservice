@@ -93,4 +93,4 @@ def email():
         root.mainloop()
 
 while True:
-    communication()
+    email()
